@@ -31,18 +31,10 @@ I am a **Bachelor of Science in Information Technology (BSIT)** student at **Pol
 
 ---
 
-### 📈 GitHub Stats
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
-
----
-
 ### 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
+- **LinkedIn: Mark Laurence Dela Torre (https://www.linkedin.com/in/mark-laurence-dela-torre-bab040415/)
+- **Email: delatorremarklaurence03@gmail.com
 
 ---
 
